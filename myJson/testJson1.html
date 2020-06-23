@@ -1,0 +1,18 @@
+<canvas id="myCanvas"  width="48" height="36"></canvas> <br><br>
+<script type="text/javascript">
+   function draw19(id) {
+       var canvas = document.getElementById(id);
+       if (canvas == null)
+           return false;
+       var context = canvas.getContext("2d");
+       context.fillStyle = "rgb(0,0,225)";
+       context.fillRect(0, 0, canvas.width, canvas.height);
+       context.fillStyle = "rgb(255,255,0)";
+       context.fillRect(10, 20, 50, 50);
+       //把图像保存到新的窗口
+       var w=window.open(canvas.toDataURL("image/jpeg"),"smallwin","width=400,height=350");
+   }    
+var win = window.open();  //打开新的空白窗口
+var a1 = '[{  "cat_name":"新款推荐",  "cat_id":10,  "cat_pid":0,  "cat_level":0,  "cat_deleted":false, "cat_icon":"", "total_items":"3", "goods":[ {  "goods_id":"100",  "cat_id":10,  "goods_name":"鸭毛羽绒",  "goods_price":9999,  "goods_num":100, "goods_weight":100, "goods_big_logo":"https://wurenzidi.github.io/mygit/imgs/icons/bg24.jpg", "goods_small_logo":"https://wurenzidi.github.io/mygit/imgs/icons/bg24.jpg", "add_time":"", "upd_time":"", "cat_1_id":1,  "cat_2_id":3,  "cat_3_id":5,  "is_promote":false } ]  }, {  "cat_name":"本季热销",  "cat_id":20,  "cat_pid":0,  "cat_level":0,  "cat_deleted":false, "cat_icon":"", "total_items":"11", "goods":[ {  "goods_id":"200",  "cat_id":10,  "goods_name":"鸭毛羽绒",  "goods_price":9999,  "goods_num":100, "goods_weight":100, "goods_big_logo":"https://wurenzidi.github.io/mygit/imgs/icons/bg24.jpg", "goods_small_logo":"https://wurenzidi.github.io/mygit/imgs/icons/bg24.jpg", "add_time":"", "upd_time":"", "cat_1_id":1,  "cat_2_id":3,  "cat_3_id":5,  "is_promote":false }, {  "goods_id":"201",  "cat_id":10,  "goods_name":"鹅毛羽绒",  "goods_price":9999,  "goods_num":100, "goods_weight":100, "goods_big_logo":"https://wurenzidi.github.io/mygit/imgs/icons/bg24.jpg", "goods_small_logo":"https://wurenzidi.github.io/mygit/imgs/icons/bg24.jpg", "add_time":"", "upd_time":"", "cat_1_id":1,  "cat_2_id":3,  "cat_3_id":5,  "is_promote":false }, {  "goods_id":"202",  "cat_id":10,  "goods_name":"羊毛羽绒",  "goods_price":9999,  "goods_num":100, "goods_weight":100, "goods_big_logo":"https://wurenzidi.github.io/mygit/imgs/icons/bg24.jpg", "goods_small_logo":"https://wurenzidi.github.io/mygit/imgs/icons/bg24.jpg", "add_time":"", "upd_time":"", "cat_1_id":1,  "cat_2_id":3,  "cat_3_id":5,  "is_promote":false } ]  }, {  "cat_name":"新款推荐",  "cat_id":30,  "cat_pid":0,  "cat_level":0,  "cat_deleted":false, "cat_icon":"", "total_items":"3", "goods":[ {  "goods_id":"300",  "cat_id":10,  "goods_name":"鸭毛羽绒",  "goods_price":9999,  "goods_num":100, "goods_weight":100, "goods_big_logo":"https://wurenzidi.github.io/mygit/imgs/icons/bg24.jpg", "goods_small_logo":"https://wurenzidi.github.io/mygit/imgs/icons/bg24.jpg", "add_time":"", "upd_time":"", "cat_1_id":1,  "cat_2_id":3,  "cat_3_id":5,  "is_promote":false }, {  "goods_id":"301",  "cat_id":10,  "goods_name":"鹅毛羽绒",  "goods_price":9999,  "goods_num":100, "goods_weight":100, "goods_big_logo":"https://wurenzidi.github.io/mygit/imgs/icons/bg24.jpg", "goods_small_logo":"https://wurenzidi.github.io/mygit/imgs/icons/bg24.jpg", "add_time":"", "upd_time":"", "cat_1_id":1,  "cat_2_id":3,  "cat_3_id":5,  "is_promote":false } ]  }]' ;
+win.document.write (a1);  //在新窗口中输出提示信息
+</script>
