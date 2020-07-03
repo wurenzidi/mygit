@@ -1,6 +1,6 @@
 { "datas" : [
-{ "image_src":"https://wurenzidi.github.io/mygit/imgs/goodsImg/50 (1).jpg" , "open_type":"navigate" , "goods_id":"50001" , "navigator_url":"pages/goods_detail/index?goods_id=50001" },
-{ "image_src":"https://wurenzidi.github.io/mygit/imgs/goodsImg/60 (1).jpg" , "open_type":"navigate" , "goods_id":"60001" , "navigator_url":"pages/goods_detail/index?goods_id=60001" },
-{ "image_src":"https://wurenzidi.github.io/mygit/imgs/goodsImg/70 (1).jpg" , "open_type":"navigate" , "goods_id":"70001" , "navigator_url":"pages/goods_detail/index?goods_id=70001" },
-{ "image_src":"https://wurenzidi.github.io/mygit/imgs/goodsImg/80 (1).jpg" , "open_type":"navigate" , "goods_id":"80001" , "navigator_url":"pages/goods_detail/index?goods_id=80001" }
+{ "image_src":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi50 (1).jpg" , "open_type":"navigate" , "goods_id":"50001" , "navigator_url":"pages/goods_detail/index?goods_id=50001" },
+{ "image_src":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi60 (1).jpg" , "open_type":"navigate" , "goods_id":"60001" , "navigator_url":"pages/goods_detail/index?goods_id=60001" },
+{ "image_src":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi70 (1).jpg" , "open_type":"navigate" , "goods_id":"70001" , "navigator_url":"pages/goods_detail/index?goods_id=70001" },
+{ "image_src":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi80 (1).jpg" , "open_type":"navigate" , "goods_id":"80001" , "navigator_url":"pages/goods_detail/index?goods_id=80001" }
 ]}
