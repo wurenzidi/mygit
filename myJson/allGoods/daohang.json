@@ -1,0 +1,6 @@
+{ "datas" : [
+{ "name":"分类"  , "image_src":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi50 (9).jpg" , "open_type":"switchTab" , "nid":"10" , "navigator_url":"pages/category/index?nid=10" },
+{ "name":"秒杀拍", "image_src":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi60 (9).jpg" , "open_type":"switchTab" , "nid":"20" , "navigator_url":"pages/category/index?nid=20" },
+{ "name":"新款"  , "image_src":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi70 (9).jpg" , "open_type":"switchTab" , "nid":"30" , "navigator_url":"pages/category/index?nid=30" },
+{ "name":"童装"  , "image_src":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi80 (9).jpg" , "open_type":"switchTab" , "nid":"40" , "navigator_url":"pages/category/index?nid=40" }
+]}
