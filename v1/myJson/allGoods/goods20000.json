@@ -1,0 +1,72 @@
+{ "datas" : 
+        { 
+         "goods_id":"20000", 
+         "cat_id":10, 
+         "goods_name":"鹅毛羽绒00", 
+         "goods_price":8888, 
+         "goods_num":100,
+         "goods_weight":100,
+         "goods_big_logo":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000.jpg",
+         "goods_small_logo":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (4).jpg",
+         "goods_introduce":"<p><span style=\"font-size: 13px;\"><strong>爆款推荐</strong></span></p><p><span style=\"font-size: 13px;\"><img src=\"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (4).jpg\" alt=\"\"></span></p><p><span style=\"font-size: 13px;\">&nbsp;商品详情</span></p><p><span style=\"font-size: 13px;\">&nbsp;使用说明</span></p><div><span style=\"font-size: 13px;\"><img id=\"code_img\" class=\"code_img\" src=\"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (5).jpg\" alt=\"\"><img id=\"code_img6\" class=\"code_img1\" src=\"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (6).jpg\" alt=\"\"><span class=\"cn1\"><br>欢迎光临 </span></span></div>",
+         "add_time":"1515123456",
+         "upd_time":"1515555555",
+         "cat_1_id":1, 
+         "cat_2_id":3, 
+         "cat_3_id":5, 
+         "goods_cat":"1,3,5", 
+         "is_promote":false,
+         "pics":[
+            {
+             "goods_id":"20000", 
+             "pics":2000001, 
+             "pics_big":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (4).jpg",
+             "pics_mid":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (4).jpg",
+             "pics_sma":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (4).jpg",
+             "pics_big_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (4).jpg",
+             "pics_mid_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (4).jpg",
+             "pics_sma_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (4).jpg"
+            },
+            {
+             "goods_id":"20000", 
+             "pics":2000002, 
+             "pics_big":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (1).jpg",
+             "pics_mid":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (2).jpg",
+             "pics_sma":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (3).jpg",
+             "pics_big_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (1).jpg",
+             "pics_mid_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (2).jpg",
+             "pics_sma_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (3).jpg"
+            },
+            {
+             "goods_id":"20000", 
+             "pics":2000003, 
+             "pics_big":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (4).jpg",
+             "pics_mid":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (5).jpg",
+             "pics_sma":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (6).jpg",
+             "pics_big_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (4).jpg",
+             "pics_mid_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (5).jpg",
+             "pics_sma_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (6).jpg"
+            },
+            {
+             "goods_id":"20000", 
+             "pics":2000004, 
+             "pics_big":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (1).jpg",
+             "pics_mid":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (2).jpg",
+             "pics_sma":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (3).jpg",
+             "pics_big_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (1).jpg",
+             "pics_mid_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (2).jpg",
+             "pics_sma_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (3).jpg"
+            },
+            {
+             "goods_id":"20000", 
+             "pics":2000005, 
+             "pics_big":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (5).jpg",
+             "pics_mid":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (6).jpg",
+             "pics_sma":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (5).jpg",
+             "pics_big_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (5).jpg",
+             "pics_mid_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (6).jpg",
+             "pics_sma_url":"https://wurenzidi.github.io/mygit/imgs/goodsImg/gi20000 (5).jpg"
+            } 
+         ]
+        }
+}
