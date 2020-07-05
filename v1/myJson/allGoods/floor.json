@@ -101,6 +101,12 @@
           "image_width":"233" ,                                           
           "open_type":"navigate" ,                                        
           "navigator_url":"/pages/goods_list/index?cid=33&query=换季"     
+        },                                                                
+        { "name":"折上折"  ,                                              
+          "image_src":"https://wurenzidi.github.io/mygit/v1/imgs/goodsImg/gi34 (1).jpg" , 
+          "image_width":"233" , 
+          "open_type":"navigate" , 
+          "navigator_url":"/pages/goods_list/index?cid=34&query=折" 
         }
       ]
   }
