@@ -25,7 +25,7 @@
             },
             { 
              "cat_name":"外套", 
-             "cat_id":11, 
+             "cat_id":20, 
              "cat_pid":100, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -33,7 +33,7 @@
             },
             { 
              "cat_name":"裤子", 
-             "cat_id":12, 
+             "cat_id":30, 
              "cat_pid":100, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -41,7 +41,7 @@
             },
             { 
              "cat_name":"夹克", 
-             "cat_id":13, 
+             "cat_id":40, 
              "cat_pid":100, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -60,7 +60,7 @@
          "children":[
             { 
              "cat_name":"运动", 
-             "cat_id":14, 
+             "cat_id":30, 
              "cat_pid":101, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -68,7 +68,7 @@
             },
             { 
              "cat_name":"外套", 
-             "cat_id":15, 
+             "cat_id":20, 
              "cat_pid":101, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -76,7 +76,7 @@
             },
             { 
              "cat_name":"裤子", 
-             "cat_id":16, 
+             "cat_id":10, 
              "cat_pid":101, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -84,7 +84,7 @@
             },
             { 
              "cat_name":"夹克", 
-             "cat_id":17, 
+             "cat_id":20, 
              "cat_pid":101, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -102,7 +102,7 @@
          "children":[
             { 
              "cat_name":"运动", 
-             "cat_id":18, 
+             "cat_id":30, 
              "cat_pid":102, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -110,7 +110,7 @@
             },
             { 
              "cat_name":"外套", 
-             "cat_id":19, 
+             "cat_id":40, 
              "cat_pid":102, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -118,7 +118,7 @@
             },
             { 
              "cat_name":"裤子", 
-             "cat_id":22, 
+             "cat_id":30, 
              "cat_pid":102, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -126,7 +126,7 @@
             },
             { 
              "cat_name":"夹克", 
-             "cat_id":21, 
+             "cat_id":20, 
              "cat_pid":102, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -160,7 +160,7 @@
             },
             { 
              "cat_name":"女装", 
-             "cat_id":23, 
+             "cat_id":30, 
              "cat_pid":200, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -168,7 +168,7 @@
             },
             { 
              "cat_name":"情侣装", 
-             "cat_id":24, 
+             "cat_id":40, 
              "cat_pid":200, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -176,7 +176,7 @@
             } ,
             { 
              "cat_name":"童装", 
-             "cat_id":25, 
+             "cat_id":10, 
              "cat_pid":200, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -195,7 +195,7 @@
          "children":[
             { 
              "cat_name":"男鞋", 
-             "cat_id":26, 
+             "cat_id":20, 
              "cat_pid":201, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -203,7 +203,7 @@
             },
             { 
              "cat_name":"女鞋", 
-             "cat_id":27, 
+             "cat_id":30, 
              "cat_pid":201, 
              "cat_level":2, 
              "cat_deleted":false,
@@ -211,7 +211,7 @@
             } ,
             { 
              "cat_name":"情侣鞋", 
-             "cat_id":28, 
+             "cat_id":40, 
              "cat_pid":201, 
              "cat_level":2, 
              "cat_deleted":false,
