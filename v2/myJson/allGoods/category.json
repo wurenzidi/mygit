@@ -32,7 +32,7 @@
              "cat_icon":"https://wurenzidi.github.io/mygit/v2/imgs/goodsImg/gi10 (2).jpg"            
             },
             { 
-             "cat_name":"裤子", 
+             "cat_name":"保暖护具", 
              "cat_id":30, 
              "cat_pid":100, 
              "cat_level":2, 
@@ -40,7 +40,7 @@
              "cat_icon":"https://wurenzidi.github.io/mygit/v2/imgs/goodsImg/gi10 (3).jpg"            
             },
             { 
-             "cat_name":"夹克", 
+             "cat_name":"滑雪护具", 
              "cat_id":40, 
              "cat_pid":100, 
              "cat_level":2, 
@@ -75,7 +75,7 @@
              "cat_icon":"https://wurenzidi.github.io/mygit/v2/imgs/goodsImg/gi10 (7).jpg"            
             },
             { 
-             "cat_name":"裤子", 
+             "cat_name":"保暖护具", 
              "cat_id":10, 
              "cat_pid":101, 
              "cat_level":2, 
@@ -83,7 +83,7 @@
              "cat_icon":"https://wurenzidi.github.io/mygit/v2/imgs/goodsImg/gi10 (6).jpg"            
             },
             { 
-             "cat_name":"夹克", 
+             "cat_name":"滑雪护具", 
              "cat_id":20, 
              "cat_pid":101, 
              "cat_level":2, 
@@ -117,7 +117,7 @@
              "cat_icon":"https://wurenzidi.github.io/mygit/v2/imgs/goodsImg/gi11 (3).jpg"            
             },
             { 
-             "cat_name":"裤子", 
+             "cat_name":"保暖护具", 
              "cat_id":30, 
              "cat_pid":102, 
              "cat_level":2, 
@@ -125,7 +125,7 @@
              "cat_icon":"https://wurenzidi.github.io/mygit/v2/imgs/goodsImg/gi11 (2).jpg"            
             },
             { 
-             "cat_name":"夹克", 
+             "cat_name":"滑雪护具", 
              "cat_id":20, 
              "cat_pid":102, 
              "cat_level":2, 
