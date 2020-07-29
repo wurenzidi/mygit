@@ -1,6 +1,0 @@
-{ "datas" : [
-{ "image_src":"https://wurenzidi.github.io/mygit/v2/imgs/goodsImg/gi10 (1).jpg" , "open_type":"navigate" , "goods_id":"10001" , "navigator_url":"/pages/goods_detail/index?goods_id=10001" },
-{ "image_src":"https://wurenzidi.github.io/mygit/v2/imgs/goodsImg/gi20 (1).jpg" , "open_type":"navigate" , "goods_id":"20001" , "navigator_url":"/pages/goods_detail/index?goods_id=20001" },
-{ "image_src":"https://wurenzidi.github.io/mygit/v2/imgs/goodsImg/gi30 (1).jpg" , "open_type":"navigate" , "goods_id":"30001" , "navigator_url":"/pages/goods_detail/index?goods_id=30001" },
-{ "image_src":"https://wurenzidi.github.io/mygit/v2/imgs/goodsImg/gi40 (1).jpg" , "open_type":"navigate" , "goods_id":"40001" , "navigator_url":"/pages/goods_detail/index?goods_id=40001" }
-]}
